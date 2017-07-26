@@ -1,2 +1,2 @@
 # gitskills
-first set
+Creating a new branch is quick.
